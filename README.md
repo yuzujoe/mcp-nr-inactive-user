@@ -64,6 +64,23 @@ make build
 
 ## Usage
 
+### Prompt Example
+
+
+### Japanease
+
+```text
+今月インアクティブな New Relic ユーザーを探してください。
+authetication domain id は hoge です
+```
+
+### English
+
+```text
+Find the inactive New Relic user for this month.
+The authetication domain id is hoge
+```
+
 ## Contributing
 Welcome to contributions！ Please create an issue first, then we look forward to your pull request.
 
